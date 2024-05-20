@@ -1,4 +1,4 @@
-# Honeypot Lab
+# Active Directory Hacking Lab
 
 ## Objective
 [Brief Objective - Remove this afterwards]
